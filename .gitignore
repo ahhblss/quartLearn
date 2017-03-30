@@ -1,0 +1,9 @@
+
+### Maven template
+target/
+
+
+### JetBrains template
+
+.idea/
+
